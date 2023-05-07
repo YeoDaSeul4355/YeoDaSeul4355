@@ -30,7 +30,9 @@ I am trying to become a nice developer😎
 
 
 ### ✨JJUL's Coding Blog✨
-<a href="[#](https://duektmf34.tistory.com/)"><img alt="tistory" src="https://img.shields.io/badge/tistory-000?logo=tistory&logoColor=white"></a><br><br><br><br>
+<a href="https://duektmf34.tistory.com/"><img alt="tistory" src="https://img.shields.io/badge/tistory-000?logo=tistory&logoColor=white"></a>
+
+https://duektmf34.tistory.com/<br><br><br><br>
 
 
 ### 🎀GitHub Stats🎀
