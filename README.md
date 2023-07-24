@@ -18,7 +18,7 @@ I am trying to become a nice developer😎
 
 
 ### 🔍프레임워크 & 라이브러리🔍
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jQuery&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> <img alt="vuedotjs" src="https://img.shields.io/badge/vuedotjs-4FC08D?logo=vuedotjs&logoColor=white"> <img alt="nextdotjs" src="https://img.shields.io/badge/nextdotjs-000000?logo=nextdotjs&logoColor=white"> <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white"> <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white"> <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jQuery&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?logo=vuedotjs&logoColor=white"> <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"> <img alt="redux" src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white"> <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white"> <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
 <br><br>
 
 ### 💻데이터베이스 & 클라우드 호스팅💻
