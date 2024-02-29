@@ -12,59 +12,6 @@ I am trying to become a nice developer😎
 
 ---
 
-## ❤️ Main Portfolio ❤️
-
-작업물들을 모아놓은 포트폴리오입니다. 
-<a href="https://github.com/YeoDaSeul4355/portfolio" target="_blank">✨깃허브</a> <a href="https://portfolio-jjul.web.app/"  target="_blank">✨사이트</a>
-<br><br>
-## 🧡 Site Portfolio 🧡
-
-웹표준 사이트 
-<a href="https://github.com/YeoDaSeul4355/web_standard" target="_blank">✨깃허브</a> <a href="https://yeodaseul4355.github.io/web2023/site/site1/index.html"  target="_blank">✨사이트</a>
-
-PHP 블로그
-<a href="https://github.com/YeoDaSeul4355/php_blog" target="_blank">✨깃허브</a> <a href="http://dsy1943.dothome.co.kr/php/main/main.php"  target="_blank">✨사이트</a>
-
-PHP 팀프로젝트 : 하루 한 지문
-<a href="https://github.com/YeoDaSeul4355/php_team" target="_blank">✨깃허브</a> <a href="http://dsy1943.dothome.co.kr/php2/main/main.php"  target="_blank">✨사이트</a>
-
-클론 사이트 : 이마트 24
-<a href="https://github.com/YeoDaSeul4355/clone_emart24" target="_blank">✨깃허브</a> <a href="https://yeodaseul4355.github.io/clone_emart24/index.html"  target="_blank">✨사이트</a>
-
-<br><br>
-
-## 💛 React Portfolio 💛
-
-React 사이트 : Mordern Art
-<a href="https://github.com/YeoDaSeul4355/site2023-react01" target="_blank">✨깃허브</a> <a href="https://site2023-react-jjul.netlify.app/"  target="_blank">✨사이트</a>
-
-React 사이트 : Youtube API
-<a href="https://github.com/YeoDaSeul4355/site2023-youtube01" target="_blank">✨깃허브</a> <a href="https://site2023-youtube-jjul.netlify.app/"  target="_blank">✨사이트</a>
-
-Vue.js 사이트 : Mordern Art
-<a href="https://github.com/YeoDaSeul4355/site2023-vue01" target="_blank">✨깃허브</a> <a href="https://site2023-vue-jjul.netlify.app/"  target="_blank">✨사이트</a>
-
-Next.js 사이트 : Mordern Art
-<a href="https://github.com/YeoDaSeul4355/site2023-next01" target="_blank">✨깃허브</a> <a href="https://site2023-next-jjul.netlify.app/"  target="_blank">✨사이트</a>
-
-Next.js 사이트 : Car Showcase
-<a href="https://github.com/YeoDaSeul4355/car_showcase" target="_blank">✨깃허브</a> <a href="https://car-showcase-jjul.netlify.app/"  target="_blank">✨사이트</a>
-
-<br><br>
-
-## 💚 Study Site 💚
-<a href="https://github.com/YeoDaSeul4355/web2023" target="_blank">✨깃허브</a> <a href="https://yeodaseul4355.github.io/web2023/"  target="_blank">✨사이트</a>
-
-<br><br>
-
-## 💙 Javascript Effect 💙
-<a href="https://github.com/YeoDaSeul4355/gameEffect" target="_blank">✍️Game</a>
-<a href="https://github.com/YeoDaSeul4355/ParallaxEffect" target="_blank">✍️Parallax</a>
-<a href="https://github.com/YeoDaSeul4355/MouseEffect" target="_blank">✍️Mouse</a>
-<a href="https://github.com/YeoDaSeul4355/SlideEffect" target="_blank">✍️Slide</a>
-<a href="https://github.com/YeoDaSeul4355/QuizEffect" target="_blank">✍️Quiz</a>
-<a href="https://github.com/YeoDaSeul4355/SearchEffect" target="_blank">✍️Search</a>
-
 <br><br>
 
 ### 📚프로그래밍 언어📚
