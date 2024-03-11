@@ -16,12 +16,12 @@ I am trying to become a nice developer😎
 
 ### 📚프로그래밍 언어📚
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white" />
 <br><br>
 
 
 ### 🔍프레임워크 & 라이브러리🔍
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jQuery&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?logo=vuedotjs&logoColor=white"> <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"> <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white"> <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white">
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-0769AD?logo=jQuery&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=white"> <img alt="vue.js" src="https://img.shields.io/badge/vue.js-4FC08D?logo=vuedotjs&logoColor=white"> <img alt="nextdotjs" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"> <img alt="swiper" src="https://img.shields.io/badge/swiper-6332F6?logo=swiper&logoColor=white"> <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
 <br><br>
 
 ### 💻데이터베이스 & 클라우드 호스팅💻
