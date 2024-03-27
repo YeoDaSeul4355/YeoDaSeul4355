@@ -39,5 +39,4 @@ I am trying to become a nice developer😎
 
 <br><br>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&" />
