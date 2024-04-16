@@ -14,7 +14,7 @@ I am trying to become a nice developer😎
 
 <br><br>
 
-### Language & Tools
+### 🛠 Language & Tools 🛠 
 ![stack](https://github.com/YeoDaSeul4355/YeoDaSeul4355/assets/125419623/e8d73d27-0d29-4c65-8204-3c29d41f3df0)
 
 
