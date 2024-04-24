@@ -2,15 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=30&pause=1000&color=F78093&width=435&lines=Daseul's+Github+Profile+%F0%9F%98%99" alt="Typing SVG" /></a>
 
-###  👋 Introduction
+### Hi there🤗
 
-Hello! 안녕하세요!<br>
-늘 학습하고 늘 성장하자!
-I am trying to become a nice developer😎
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoDaSeul4355&count_bg=%23FFBABA&title_bg=%23555555&icon=exercism.svg&icon_color=%23FFBABA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
----
+FrontEnd Developer🌞
 
 <br><br>
 
