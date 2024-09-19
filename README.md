@@ -17,5 +17,11 @@ FrontEnd Developer🌞
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeoDaSeul4355&show_icons=true&theme=dracula)            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeoDaSeul4355&layout=compact">
 
 <br><br>
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/YeoDaSeul4355"
+  width="600"
+  height="300"
+/>
+</a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&" />
