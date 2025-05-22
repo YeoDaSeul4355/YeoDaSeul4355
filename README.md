@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cabin&weight=600&size=30&pause=1000&color=F78093&width=435&lines=Daseul's+Github+Profile+%F0%9F%98%99" alt="Typing SVG" /></a>
 
 ### Hi there🤗
@@ -24,4 +23,4 @@ FrontEnd Developer🌞
   height="300"
 />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&" /> -->
